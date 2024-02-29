@@ -1,1 +1,1 @@
-alert(' Welcome to My Website Malik Saleem Wood Works Safdarabad');
+// alert(' Welcome to My Website Malik Saleem Wood Works Safdarabad');
